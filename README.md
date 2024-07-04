@@ -1,3 +1,7 @@
+### Announcement
+This practice project is for understanding Liteflow (SIGCOMM 2022). If there are problems in my codes or other legal issues, please contact me. (zeju00@korea.ac.kr)
+
+
 <div align="center">
 <picture>
   <img alt="LiteFlow Logo" src="https://raw.githubusercontent.com/snowzjx/liteflow/master/doc/liteflow-logo.png" alt="logo" width="200">
